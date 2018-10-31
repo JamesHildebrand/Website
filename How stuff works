@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p{
+   font-style:italic;
+   text-indent:5%;
+}
+h1{
+    text-indent:10%;
+    font-weight:bold;
+}
+h2{
+   text-indent:10%;
+   font-weight:bold;
+}
+h3{
+   font-weight:bold;
+   text-indent:10%;
+}
+body{
+   background-color:#09bc92;
+}
+li{
+    font-style:italic;
+    text-indent:5%;
+}
+</style>
+</head>
+<body>
+<h1><strong>How does the CPU work?</strong></h1>
+<li>1.Info...</li>
+<li>2.Info...</li>
+<li>3.Info...</li>
+<li>4.Info...</li>
+<li>5.Info...</li>
+</p>
+</br>
+<img src="https://media.giphy.com/media/970Sr8vpwEbXG/giphy.gif">
+<h2><strong>How to disassemble a (Hp,MXl8380ZPN)</strong></h2>
+<li>Info...</li>
+<li>info...</li>
+<li>Info...</li>
+<li>info...</li>
+<li>Info...</li>
+<h3><strong>Conclusion</strong></h3>
+<li>Info...</li>
+<li>Info...</li>
+<li>Info...</li>
+<li>Info...</li>
+<li>Info...</li>
+
+</body>
+
+</html>
+
